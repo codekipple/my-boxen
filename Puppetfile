@@ -37,4 +37,9 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-github "mysql",    "1.1.5"
+github "libtool",       "1.0.0"
+github "wget",          "1.0.0"
+github "pkgconfig",     "1.0.0"
+github "pcre",          "1.0.0"
+github "libpng",        "1.0.0"
+github "mysql",         "1.1.5"
