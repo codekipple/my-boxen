@@ -12,4 +12,7 @@ class people::codekipple {
         source  => 'codekipple/dotfiles',
         require => File[$my]
     }
+
+    include people::codekipple::environment
+
 }
