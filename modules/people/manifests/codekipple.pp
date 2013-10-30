@@ -1,4 +1,4 @@
-class people::jbarnette {
+class people::codekipple {
 
     $home     = "/Users/${::boxen_user}"
     $my       = "${home}/my"
